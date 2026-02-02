@@ -29,7 +29,7 @@ namespace standalone_gui_for_avebus_controller
 
         private static void cliStartProcedure()
         {
-
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             CLI cli = new CLI("COM3");
             cli.execute();
 
