@@ -1,7 +1,5 @@
-﻿using AveBusControllerDLL;
-using System;
+﻿using System;
 using System.Linq;
-using System.IO.Ports;
 using System.Windows.Forms;
 using standalone_gui_for_avebus_controller.Guis;
 
